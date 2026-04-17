@@ -1,6 +1,6 @@
 #  Retail Sales Performance Dashboard
 
-![Retail Sales Dashboard](images/retail-sales-dashboard.png)
+[View Dashboard](retail-sales-dashboard.pdf)
 
 ##  Project Overview
 This project analyzes retail sales data to uncover key business insights, including revenue trends, customer spending behavior, and product performance.  
